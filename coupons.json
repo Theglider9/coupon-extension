@@ -1,19 +1,19 @@
 
 [
 	{
-		"hostname": "www.myprotein.it",
+		"hostname": "www.myprotein.it/my.basket",
 		"coupon": "test"
 	},
 	{
-		"hostname": "www.google.com",
+		"hostname": "www.musclenutrition.com/checkout/cart",
 		"coupon": "test"
 	},
 	{
-		"hostname": "www.yahoo.com",
+		"hostname": "www.bulkpowders.it/checkout/cart",
 		"coupon": "test"
 	},
 	{
-		"hostname": "www.musclenutrition.com",
+		"hostname": "it.theproteinworks.com/checkout/cart",
 		"coupon": "test"
 	}
 ]
