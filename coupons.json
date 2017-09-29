@@ -1,6 +1,19 @@
+
 [
 	{
 		"hostname": "www.myprotein.it",
+		"coupon": "test"
+	},
+	{
+		"hostname": "www.google.com",
+		"coupon": "test"
+	},
+	{
+		"hostname": "www.yahoo.com",
+		"coupon": "test"
+	},
+	{
+		"hostname": "www.musclenutrition.com",
 		"coupon": "test"
 	}
 ]
