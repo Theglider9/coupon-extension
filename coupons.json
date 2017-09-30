@@ -21,10 +21,6 @@
 		"coupon": "test2"
 	},
 	{
-		"hostname": "www.musclenutrition.com",
-		"coupon": "test2"
-	},
-	{
 		"hostname": "www.myprotein.it/*",
 		"coupon": "test"
 	},
