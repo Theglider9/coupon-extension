@@ -25,7 +25,7 @@
 		"coupon": "test2"
 	},
 	{
-		"hostname": "www.myprotein.it",
+		"hostname": "www.myprotein.it/*",
 		"coupon": "test"
 	}
 	]
