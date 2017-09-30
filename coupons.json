@@ -19,5 +19,9 @@
 	{
 		"hostname": "www.google.it",
 		"coupon": "test2"
+	},
+	{
+		"hostname": "www.musclenutrition.com",
+		"coupon": "test2"
 	}
 	]
