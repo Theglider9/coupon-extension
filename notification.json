@@ -1,6 +1,6 @@
 {
-  id: 'test',
-  title: 'New Deal!',
-  message: 'Check out our new deals!',
-  url: 'https://www.google.com'
+  "id": "test",
+  "title": "New Deal!",
+  "message": "Check out our new deals!",
+  "url": "https://www.google.com"
 }
