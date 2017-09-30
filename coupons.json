@@ -16,4 +16,8 @@
 		"hostname": "it.theproteinworks.com/checkout/cart",
 		"coupon": "test"
 	},
+	{
+		"hostname": "www.google.it",
+		"coupon": "test"
+	}
 	]
