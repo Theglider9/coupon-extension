@@ -2,6 +2,6 @@
   "id": "test",
   "title": "New Deal!",
   "message": "Check out our new deals!",
-  "urlName": "Visit URL",
+  "urlTitle": "Visit URL",
   "url": "https://www.google.com"
 }
