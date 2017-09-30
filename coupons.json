@@ -21,11 +21,11 @@
 		"coupon": "test2"
 	},
 	{
-		"hostname": "www.myprotein.it/*",
+		"hostname": "www.myprotein.it",
 		"coupon": "test"
 	},
 	{
-		"hostname": "it.theproteinworks.com/",
+		"hostname": "it.theproteinworks.com",
 		"coupon": "test"
 	}
 	]
