@@ -15,5 +15,9 @@
 	{
 		"hostname": "it.theproteinworks.com/checkout/cart",
 		"coupon": "test"
-	}
+	},
+	{
+		"hostname": "ansa.it",
+		"coupon": "test"
+	},
 ]
