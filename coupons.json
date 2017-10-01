@@ -2,26 +2,27 @@
 [
 	{
 		"hostname": "www.myprotein.it/my.basket",
-		"coupon": "test"
+		"coupon": "test",
+		"offer": "50% Off"
 	},
 	{
 		"hostname": "www.musclenutrition.com/checkout/cart",
-		"coupon": "test"
+		"coupon": "test",
+		"offer": "50% Off"
 	},
 	{
 		"hostname": "www.bulkpowders.it/checkout/cart",
-		"coupon": "test"
+		"coupon": "test",
+		"offer": "50% Off"
 	},
 	{
 		"hostname": "it.theproteinworks.com/checkout/cart",
-		"coupon": "test"
+		"coupon": "test",
+		"offer": "50% Off"
 	},
 	{
 		"hostname": "www.google.it",
-		"coupon": "test2"
-	},
-	{
-		"hostname": "it.theproteinworks.com",
-		"coupon": "test"
+		"coupon": "test",
+		"offer": "50% Off"
 	}
 ]
