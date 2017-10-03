@@ -24,5 +24,10 @@
 		"hostname": "www.google.it",
 		"coupon": "test",
 		"offer": "50% Off"
+	},
+	{
+		"hostname": "www.musclenutrition.com",
+		"coupon": "test",
+		"offer": "50% Off"
 	}
 ]
